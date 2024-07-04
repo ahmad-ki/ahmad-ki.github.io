@@ -218,13 +218,6 @@ title: Work Experience
 permalink: /work/
 ---
 
-Work Experience
-
- [IT Engineer] at [Evolutions real state]
-*tow years*
-
-- Description of your role and responsibilities.
-- Key achievements and projects.
 
     tag: tag
   permalinks:
@@ -234,9 +227,10 @@ Work Experience
 layout: page
 title: Contact
 permalink: /contact/
+Contact: 05484215974
 ---
 
-Contact Me 05484215974
+
 
 Feel free to reach out to me via email at [your email address] or connect with me on [social media platforms].
 /categories/:name/
