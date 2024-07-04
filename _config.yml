@@ -196,6 +196,27 @@ jekyll-archives:
   enabled: [categories, tags]
   layouts:
     category: category
+
+---
+layout: home
+title: Home
+---
+
+Welcome to my personal website! Here you'll find information about my hobbies, work experience, and more.
+---
+layout: page
+title: Work Experience
+permalink: /work/
+---
+
+## Work Experience
+
+### [Job Title] at [Company Name]
+*Dates of Employment*
+
+- Description of your role and responsibilities.
+- Key achievements and projects.
+
     tag: tag
   permalinks:
     tag: /tags/:name/asdasfasfasfasd
