@@ -96,16 +96,7 @@ comments:
   giscus:
     repo: # <gh-username>/<repo>
     repo_id:
-    category:---
-layout: page
-title: Contact
-permalink: /contact/
----
-
-## Contact Me
-
-Feel free to reach out to me via email at [your email address] or connect with me on [social media platforms].
-
+    category:
     category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
@@ -218,19 +209,16 @@ title: Work Experience
 permalink: /work/
 ---
 
+## Work Experience
+
+### [Job Title] at [Company Name]
+*Dates of Employment*
+
+- Description of your role and responsibilities.
+- Key achievements and projects.
 
     tag: tag
   permalinks:
     tag: /tags/:name/asdasfasfasfasd
 
-    category: ---
-layout: page
-title: Contact
-permalink: /contact/
-Contact: 05484215974
----
-
-
-
-Feel free to reach out to me via email at [your email address] or connect with me on [social media platforms].
-/categories/:name/
+    category: /categories/:name/
